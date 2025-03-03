@@ -1,0 +1,1 @@
+PROYECTO ?= src/dados.s
